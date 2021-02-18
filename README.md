@@ -17,7 +17,7 @@ Fort de mes années d'expériences j'ai atteint le score de 27 points.
     * Optimiser le code (nom de variable/fonction ...).
     * Le cercle à une chance de sortir du cadre sur la droite, à fixer.
     * Un tableau des meilleurs score avec une petite BDD ?
-    * Rendre les flèches analogique clicable pour la version mobile
+    * Rendre les flèches analogique cliquable pour la version mobile
 
 ### Auteur 
 

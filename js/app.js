@@ -137,7 +137,7 @@ function createCircle() {
 }
 
 /**
- * remove the circle when the square is over the him
+ * remove the circle when the square is over  him
  */
 function removeCircleOnHover() {
   let circle = document.querySelector(".circle");

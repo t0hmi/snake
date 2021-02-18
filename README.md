@@ -1,4 +1,4 @@
-# Snake 2.0  🐍 ( fin sans serpent et sans le principe de snake)
+## Snake 2.0  🐍 ( fin sans serpent et sans le principe de snake)
 ***
 Le but du jeu est simple, 1min pour obtenir le meilleur score.
 
